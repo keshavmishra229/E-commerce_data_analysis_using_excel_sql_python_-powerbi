@@ -1,15 +1,6 @@
-This project involved conducting a comprehensive Exploratory Data
-Analysis (EDA) on a dataset containing financial and demographic
-attributes of loan applicants. The goal was to identify key factors
-influencing loan defaults and develop risk mitigation strategies for
-lending institutions.
-Key Contributions:
-• Performed data cleaning and pre-processing to handle missing values
-and inconsistencies.
-• Conducted statistical analysis and visualized trends using Python
-(Pandas, NumPy, Matplotlib, Seaborn).
-• Identified correlations between applicant attributes and loan default
-risks.
-• Derived insights to assist in optimizing credit approval strategies.
-Tools & Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn,
-Google Colab.
+Integrated Excel, SQL, and Power BI to create a robust sales analytics solution. Data was cleaned and prepared in Excel, while SQL
+queries calculated key metrics such as total revenue, average order
+value, top-selling products, and regional performance. The project
+culminated in dynamic Power BI dashboards that visualized trends,
+geographic sales distribution, and payment method analysis, enabling
+efficient, data-driven decision-making
